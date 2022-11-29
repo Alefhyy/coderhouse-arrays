@@ -1,1 +1,1 @@
-https://alefhyy.github.io/coderhouse-arrays/s
+https://alefhyy.github.io/coderhouse-arrays/
